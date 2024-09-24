@@ -1,0 +1,13 @@
+dungeon = [
+  [
+    "a sword","a monster","a sword","nothing","up stairs"
+  ],
+  [
+    "up stairs","a sword","a monster","a magic stone","down stairs"
+  ],
+  [
+    "down stairs","a monster","a sword","boss","prize"
+  ]
+]
+
+https://www.w3schools.com/python/python_classes.asp
