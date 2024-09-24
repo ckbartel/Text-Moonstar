@@ -1,5 +1,4 @@
 from roomClass import Room
-from replit import clear
 #XX678
 #9543
 #AB12
@@ -462,7 +461,6 @@ def inventory():
   print('\n\n')
 #takes action when new input is given
 def takeAction(inp):
-  clear()
   isntInput=True
   #player won
   if(player['hasWon']):
